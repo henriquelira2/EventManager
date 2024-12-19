@@ -1,0 +1,72 @@
+{
+  "expo": {
+    "name": "Event Manager",
+    "slug": "eventmanager2",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "newArchEnabled": true,
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.gareky1.eventmanager2"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.gareky1.eventmanager2",
+      "permissions": [
+        "android.permission.RECORD_AUDIO",
+        "android.permission.CAMERA"
+      ]
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/e125a56e-9d6f-4f76-866a-13796a2253fe"
+    },
+    "plugins": [
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "The app accesses your photos to let you share them with your friends."
+        }
+      ],
+      [
+        "@stripe/stripe-react-native",
+        {
+          "merchantIdentifier": "merchant.com.gareky1.eventmanager2",
+          "enableGooglePay": true
+        }
+      ],
+      [
+        "expo-camera",
+        {
+          "cameraPermission": "Permitir que $(PRODUCT_NAME) acesse sua câmera",
+          "microphonePermission": "Permitir que $(PRODUCT_NAME) acesse seu microfone",
+          "recordAudioAndroid": true
+        }
+      ]
+    ],
+    "scheme": "eventmanager2",
+    "extra": {
+      "eas": {
+        "projectId": "c8f6aaf8-6ac3-403d-b1ea-47a76402d563"
+      }
+    }
+  }
+}
