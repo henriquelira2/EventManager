@@ -4,6 +4,7 @@
 
 <p align="center">
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+ <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-principais-funcionalidades">Principais Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-resultados-alcancados">Resultados Alcançados</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-metodologia">Metodologia</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -29,6 +30,10 @@ A aplicação está dividida em três partes principais:
     <li> <b>Banco de Dados:</b> Utiliza MySQL, estruturado para gerenciar eventos, usuários, check-ins e certificados.
   </ul>
 </div>
+
+## 🔖 Layout
+
+Você pode visualizar o layout do projeto através [desse link](https://www.canva.com/design/DAGXt6dT2S0/PRJl2zVXnsAc7TKKaBWL1Q/view?utm_content=DAGXt6dT2S0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hed201ca855#31).
 
 ## ✨ Principais Funcionalidades
 
