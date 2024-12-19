@@ -33,7 +33,7 @@ A aplicação está dividida em três partes principais:
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [desse link](https://www.canva.com/design/DAGXt6dT2S0/PRJl2zVXnsAc7TKKaBWL1Q/view?utm_content=DAGXt6dT2S0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hed201ca855#31).
+Você pode visualizar o layout do projeto através [desse link](https://www.canva.com/design/DAGXt6dT2S0/PRJl2zVXnsAc7TKKaBWL1Q/view?utm_content=DAGXt6dT2S0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hed201ca855#1).
 
 ## ✨ Principais Funcionalidades
 
